@@ -59,18 +59,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Associate Degree in Web Design and Coding
-        university: Anadolu University
-        time: 2020 - 2021
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-        - degree: PhD in Dentomaxillofacial Radiology
+      - degree: PhD in Oral and Maxillofacial Radiology
         university: Istanbul University
         time: 2016 - 2019
         details: |
@@ -81,9 +70,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-        - degree: BSc in Dentistry
+      - degree: DDS in Dentistry
         university: Near East University
-        time: 2010 - 2015
+        time: 20010 - 2015
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
