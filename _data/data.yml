@@ -51,7 +51,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am an Associate Professor specialized in Oral Diagnosis and Dentomaxillofacial Radiology. My research interests include deep learning in medicine, the applications of magnetic resonance imaging in the maxillofacial region, and understanding how malignancies appear in various imaging modalities, particularly through diffusion-weighted imaging in the Head & Neck region.
+      I am an Associate Professor specialized in Oral Diagnosis and Dentomaxillofacial Radiology. 
+      My research interests include deep learning in medicine, 
+      the applications of magnetic resonance imaging in the maxillofacial region, 
+      and understanding how malignancies appear in various imaging modalities, 
+      particularly through diffusion-weighted imaging in the Head & Neck region.
 education:
     title: Education
     info:
@@ -88,8 +92,6 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-            
-            
 
 experiences:
     title: Experiences
