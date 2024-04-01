@@ -148,20 +148,20 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: The Use of Intraoral Ultrasound in the Evaluation of the Benign Lesions in Pediatric Patients
+        link: "https://doi.org/10.23736/S2724-5276.23.07163-X"
+        authors: Ünsal, G., Orhan, A.I., Orhan, K., et al.
+        conference: Minerva Pediatrics, 2023
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Variations and Thicknesses of Anterior Belly of the Digastric Muscle: An Ultrasonographic Study
+        link: "https://doi.org/10.1007/s00405-023-08207-2"
+        authors: Ünsal, G., Göksel, S., Karabaş, H.Ç., et al.
+        conference: European Archives of Oto-Rhino-Laryngology, 2023
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Assessing the reliability of CBCT-based AI-generated STL files in diagnosing osseous changes of the mandibular condyle
+        link: "https://doi.org/10.1259/dmfr.20230141"
+        authors: Orhan, K., Sanders, A., Ünsal, G., et al.
+        conference: Dentomaxillofacial Radiology, 2023
 
 certifications:
       title: Certifications
