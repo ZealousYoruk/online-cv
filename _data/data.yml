@@ -148,32 +148,32 @@ publications:
     papers:
       - title: The Use of Intraoral Ultrasound in the Evaluation of the Benign Lesions in Pediatric Patients
         link: "https://doi.org/10.23736/S2724-5276.23.07163-X"
-        authors: Ünsal, G., Orhan, A.I., Orhan, K., Ertürk, A.F., Özcan, İ., Marrapodi, M.M., Cicciu, M., Minervini, G.
+        authors: Ünsal, G., Orhan, A.I., Orhan, K., et al.
         conference: Minerva Pediatrics, 2023
 
       - title: Variations and Thicknesses of Anterior Belly of the Digastric Muscle: An Ultrasonographic Study
         link: "https://doi.org/10.1007/s00405-023-08207-2"
-        authors: Ünsal, G., Göksel, S., Karabaş, H.Ç., Ertürk, A.F., Özcan, İ., Evli, C., Önder, M., Orhan, K.
+        authors: Ünsal, G., Göksel, S., Karabaş, H.Ç., et al.
         conference: European Archives of Oto-Rhino-Laryngology, 2023
 
-      - title: Assessing the reliability of CBCT-based AI-generated STL files in diagnosing osseous changes of the mandibular condyle: a comparative study with ground truth diagnosis
+      - title: Assessing the reliability of CBCT-based AI-generated STL files in diagnosing osseous changes of the mandibular condyle
         link: "https://doi.org/10.1259/dmfr.20230141"
-        authors: Orhan, K., Sanders, A., Ünsal, G., Ezhov, M., Mısırlı, M., Gusarev, M., İçen, M., Shamshiev, M., Keser, G., Pekiner, F. N., Golitsyna, M., Önder, M., Manulis, D., & Atakan, C.
+        authors: Orhan, K., Sanders, A., Ünsal, G., et al.
         conference: Dentomaxillofacial Radiology, 2023
         
       - title: Radiological evaluation of odontogenic keratocysts in patients with nevoid basal cell carcinoma syndrome: A review
         link: "https://doi.org/10.1016/j.sdentj.2023.05.023"
-        authors: Ünsal G, Cicciu M, Saleh RAA, Hammamy MRA, Kadri AA, Kuran B, Minervini G. 
+        authors: Ünsal G, Cicciu M, Saleh RAA, et al.
         conference: The Saudi Dental Journal, 2023
 
       - title: Deep convolutional neural network algorithm for the automatic segmentation of oral potentially malignant disorders and oral cancers
         link: "https://doi.org/10.1177/09544119231176116"
-        authors: Ünsal, G., Chaurasia, A., Akkaya, N., Chen, N., Abdalla-Aslan, R., Koca, R. B., Orhan, K., Roganovic, J., Reddy, P., Wahjuningrum, D. A. 
+        authors: Ünsal, G., Chaurasia, A., Akkaya, N., et al.
         conference: Proceedings of the Institution of Mechanical Engineers. Part H, Journal of engineering in medicine, 2023
 
       - title: Federated vs Local vs Central Deep Learning of Tooth Segmentation on Panoramic Radiographs
         link: "https://doi.org/10.1016/j.jdent.2023.104556"
-        authors: Schneider, L., Rischke, R., Krois, J., Krasowski, A., Büttner, M., Mohammad-Rahimi, H., Chaurasia, A., Pereira, N. S., Lee, J. H., Uribe, S. E., Shahab, S., Koca-Ünsal, R. B., Ünsal, G., Martinez-Beneyto, Y., Brinz, J., Tryfonos, O., Schwendicke, F. 
+        authors: Schneider, L., Rischke, R., Krois, J., et al.
         conference: Journal of Dentistry, 2023     
    
       - title: Automatic Segmentation of Teeth, Crown-Bridge Restorations, Dental Implants, Restorative Fillings, Dental Caries, Residual Roots, and Root Canal Fillings on Orthopantomographs: Convenience and Pitfalls
@@ -183,7 +183,7 @@ publications:
 
       - title: Investigation of the Wetting Properties of Thalassemia Patients’ Blood Samples on Grade 5 Titanium Implant Surfaces: A Pilot Study
         link: "http://dx.doi.org/10.3390/biomimetics8010025"
-        authors: Temelci, A., Yılmaz, H. G., Ünsal, G., Uyanik, L. O., Yazman, D., Ayali, A., Minervini, G. 
+        authors: Temelci, A., Yılmaz, H. G., Ünsal, G., et al. 
         conference: Biomimetics, 2023
 
       - title: Comparison of the Paranasal Sinus Features of Paediatric Patients with and Without Cleft Palate: A CBCT Study
@@ -208,7 +208,7 @@ publications:
         
       - title: AI-based automatic segmentation of craniomaxillofacial anatomy from CBCT scans for automatic detection of pharyngeal airway evaluations in OSA patients
         link: "https://doi.org/10.1038/s41598-022-15920-1"
-        authors: Orhan, K., Shamshiev, M., Ezhov, M., Plaksin, A., Kurbanova, A., Ünsal, G., Gusarev, M., Golitsyna, M., Aksoy, S., Mısırlı, M., Rasmussen, F., Shumilov, E., & Sanders, A. 
+        authors: Orhan, K., Shamshiev, M., Ezhov, M., et al.
         conference: Scientific reports, 2022
 
       - title: Radiological evaluation of the periosteal reactions in the jaws: a retrospective CBCT study
@@ -218,7 +218,7 @@ publications:
         
       - title: Ultrasonographic evaluation of the titanium-prepared platelet-rich fibrin effect in free gingival graft procedures
         link: "https://doi.org/10.1002/JPER.21-0076"
-        authors: Koca-Ünsal, R. B., Ünsal, G., Kasnak, G., Fıratlı, Y., Özcan, İ., Orhan, K., & Fıratlı, E.
+        authors: Koca-Ünsal, R. B., Ünsal, G., Kasnak, G., et al.
         conference: Journal of Periodontology, 2022
 
       - title: Canal Transportation and Volumetric Dentin Removal Abilities of Ni-Ti Rotary File Systems in Curved Primary Root Canals: CBCT Study
@@ -228,7 +228,7 @@ publications:
         
       - title: Optimization of Dental Devices and Tools Used on Teeth
         link: "https://doi.org/10.1155/2021/9913788"
-        authors: Uzun, B., Ozsahin, D. U., Hamdan, H., Charafeddine, J., Ünsal, G., & Özyer, D.
+        authors: Uzun, B., Ozsahin, D. U., Hamdan, H., Charafeddine, J., Ünsal, G., Özyer, D.
         conference: BioMed research international, 2021
 
       - title: What do we expect to visualize in radiographs of MRONJ patients?
