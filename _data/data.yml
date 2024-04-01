@@ -146,21 +146,111 @@ publications:
     intro: |
       Publications Indexed in (SCI, ESCI and SCOPUS)
     papers:
-      - title: The use of intraoral ultrasound in the evaluation of the benign lesions in pediatric patients
-        link: "https://www.minervamedica.it/en/journals/minerva-pediatrics/article.php?cod=R15Y9999N00A23090602"
+      - title: The Use of Intraoral Ultrasound in the Evaluation of the Benign Lesions in Pediatric Patients
+        link: "https://doi.org/10.23736/S2724-5276.23.07163-X"
         authors: Ünsal, G., Orhan, A.I., Orhan, K., Ertürk, A.F., Özcan, İ., Marrapodi, M.M., Cicciu, M., Minervini, G.
         conference: Minerva Pediatrics, 2023
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Variations and Thicknesses of Anterior Belly of the Digastric Muscle: An Ultrasonographic Study
+        link: "https://doi.org/10.1007/s00405-023-08207-2"
+        authors: Ünsal, G., Göksel, S., Karabaş, H.Ç., Ertürk, A.F., Özcan, İ., Evli, C., Önder, M., Orhan, K.
+        conference: European Archives of Oto-Rhino-Laryngology, 2023
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Assessing the reliability of CBCT-based AI-generated STL files in diagnosing osseous changes of the mandibular condyle: a comparative study with ground truth diagnosis
+        link: "https://doi.org/10.1259/dmfr.20230141"
+        authors: Orhan, K., Sanders, A., Ünsal, G., Ezhov, M., Mısırlı, M., Gusarev, M., İçen, M., Shamshiev, M., Keser, G., Pekiner, F. N., Golitsyna, M., Önder, M., Manulis, D., & Atakan, C.
+        conference: Dentomaxillofacial Radiology, 2023
+        
+      - title: Radiological evaluation of odontogenic keratocysts in patients with nevoid basal cell carcinoma syndrome: A review
+        link: "https://doi.org/10.1016/j.sdentj.2023.05.023"
+        authors: Ünsal G, Cicciu M, Saleh RAA, Hammamy MRA, Kadri AA, Kuran B, Minervini G. 
+        conference: The Saudi Dental Journal, 2023
 
+      - title: Deep convolutional neural network algorithm for the automatic segmentation of oral potentially malignant disorders and oral cancers
+        link: "https://doi.org/10.1177/09544119231176116"
+        authors: Ünsal, G., Chaurasia, A., Akkaya, N., Chen, N., Abdalla-Aslan, R., Koca, R. B., Orhan, K., Roganovic, J., Reddy, P., Wahjuningrum, D. A. 
+        conference: Proceedings of the Institution of Mechanical Engineers. Part H, Journal of engineering in medicine, 2023
+
+      - title: Federated vs Local vs Central Deep Learning of Tooth Segmentation on Panoramic Radiographs
+        link: "https://doi.org/10.1016/j.jdent.2023.104556"
+        authors: Schneider, L., Rischke, R., Krois, J., Krasowski, A., Büttner, M., Mohammad-Rahimi, H., Chaurasia, A., Pereira, N. S., Lee, J. H., Uribe, S. E., Shahab, S., Koca-Ünsal, R. B., Ünsal, G., Martinez-Beneyto, Y., Brinz, J., Tryfonos, O., Schwendicke, F. 
+        conference: Journal of Dentistry, 2023     
+   
+      - title: Automatic Segmentation of Teeth, Crown-Bridge Restorations, Dental Implants, Restorative Fillings, Dental Caries, Residual Roots, and Root Canal Fillings on Orthopantomographs: Convenience and Pitfalls
+        link: "https://doi.org/10.3390/diagnostics13081487"
+        authors: Gardiyanoğlu, E., Ünsal, G., Akkaya, N., Aksoy, S., & Orhan, K. 
+        conference: Diagnostics, 2023
+
+      - title: Investigation of the Wetting Properties of Thalassemia Patients’ Blood Samples on Grade 5 Titanium Implant Surfaces: A Pilot Study
+        link: "http://dx.doi.org/10.3390/biomimetics8010025"
+        authors: Temelci, A., Yılmaz, H. G., Ünsal, G., Uyanik, L. O., Yazman, D., Ayali, A., Minervini, G. 
+        conference: Biomimetics, 2023
+
+      - title: Comparison of the Paranasal Sinus Features of Paediatric Patients with and Without Cleft Palate: A CBCT Study
+        link: "https://doi.org/10.1177/10556656221149148"
+        authors: Tunç H, Ünsal G.
+        conference: The Cleft Palate Craniofacial Journal, 2023
+     
+      - title: Association of accessory sphenoidal septum with protrusions of sphenoid sinus
+        link: "https://doi.org/10.1007/s00405-022-07780-2"
+        authors: Goksel, S., Unsal, G., Cakir Karabas, H., Erturk, A. F., Ozcan, I., Orhan, K. 
+        conference: European archives of oto-rhino-laryngology, 2023
+
+      - title: A Fused Deep Learning Architecture for the Detection of the Relationship between the Mandibular Third Molar and the Mandibular Canal
+        link: "https://doi.org/10.3390/diagnostics12082018"
+        authors: Buyuk, C., Akkaya, N., Arsan, B., Unsal, G., Aksoy, S., & Orhan, K.
+        conference: Diagnostics, 2022
+
+      - title: Prevalence, Radiographic Features and Clinical Relevancy of Accessory Canals of the Canalis Sinuosus in Cypriot Population: A Retrospective CBCT Study
+        link: "https://doi.org/10.3390/medicina58070930"
+        authors: Beyzade, Z., Yılmaz, H. G., Ünsal, G., & Çaygür-Yoran, A.
+        conference: Medicina, 2022  
+        
+      - title: AI-based automatic segmentation of craniomaxillofacial anatomy from CBCT scans for automatic detection of pharyngeal airway evaluations in OSA patients
+        link: "https://doi.org/10.1038/s41598-022-15920-1"
+        authors: Orhan, K., Shamshiev, M., Ezhov, M., Plaksin, A., Kurbanova, A., Ünsal, G., Gusarev, M., Golitsyna, M., Aksoy, S., Mısırlı, M., Rasmussen, F., Shumilov, E., & Sanders, A. 
+        conference: Scientific reports, 2022
+
+      - title: Radiological evaluation of the periosteal reactions in the jaws: a retrospective CBCT study
+        link: "https://doi.org/10.1007/s11282-021-00580-0"
+        authors: Ünsal, G., Soluk-Tekkeşin, M., Bektaş-Kayhan, K., Özcan, İ.
+        conference: Oral Radiology, 2022
+        
+      - title: Ultrasonographic evaluation of the titanium-prepared platelet-rich fibrin effect in free gingival graft procedures
+        link: "https://doi.org/10.1002/JPER.21-0076"
+        authors: Koca-Ünsal, R. B., Ünsal, G., Kasnak, G., Fıratlı, Y., Özcan, İ., Orhan, K., & Fıratlı, E.
+        conference: Journal of Periodontology, 2022
+
+      - title: Canal Transportation and Volumetric Dentin Removal Abilities of Ni-Ti Rotary File Systems in Curved Primary Root Canals: CBCT Study
+        link: "https://doi.org/10.3390/app11199053"
+        authors: İslam, A., Ünsal, G., Almashharawi, A. 
+        conference: Applied Sciences, 2021
+        
+      - title: Optimization of Dental Devices and Tools Used on Teeth
+        link: "https://doi.org/10.1155/2021/9913788"
+        authors: Uzun, B., Ozsahin, D. U., Hamdan, H., Charafeddine, J., Ünsal, G., & Özyer, D.
+        conference: BioMed research international, 2021
+
+      - title: What do we expect to visualize in radiographs of MRONJ patients?
+        link: "https://doi.org/10.52142/omujecm.38.si.dent.4"
+        authors: Unsal, G. & Orhan, K. 
+        conference: Journal of Experimental and Clinical Medicine, 2021
+        
+      - title: Craniofacial Fibrous Dysplasia Involvements of Mccune-Albright Syndrome: A Review with an Additional Case
+        link: "https://doi.org/10.2174/1573405616666201209102418"
+        authors: Özcan, İ., Ünsal, G., Koca, R. B., Orhan, K. 
+        conference: Current Medical Imaging, 2021
+        
+      - title: Optimization of Dental Devices and Tools Used on Teeth
+        link: "https://doi.org/10.1155/2021/9913788"
+        authors: Uzun, B., Ozsahin, D. U., Hamdan, H., Charafeddine, J., Ünsal, G., & Özyer, D.
+        conference: BioMed research international, 2021
+
+      - title: CBCT analysis of haller cells: relationship with accessory maxillary ostium and maxillary sinus pathologies
+        link: "https://doi.org/10.1007/s11282-020-00487-2"
+        authors: Özcan, İ., Göksel, S., Çakır-Karabaş, H., Ünsal, G.
+        conference: Oral Radiology, 2021
+        
 certifications:
       title: Certifications
       list:
