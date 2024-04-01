@@ -42,7 +42,7 @@ sidebar:
         - item: Basketball
           link:
 
-        - item: Snowblade
+        - item: Bass Guitar
           link:
 
         - item: Woodworking
@@ -141,6 +141,26 @@ experiences:
         company: Istanbul University / Istanbul, Turkiye
         details: |
 
+publications:
+    title: Publications
+    intro: |
+      Publications Indexed in (SCI, ESCI and SCOPUS)
+    papers:
+      - title: The use of intraoral ultrasound in the evaluation of the benign lesions in pediatric patients
+        link: "https://www.minervamedica.it/en/journals/minerva-pediatrics/article.php?cod=R15Y9999N00A23090602"
+        authors: Ünsal, G., Orhan, A.I., Orhan, K., Ertürk, A.F., Özcan, İ., Marrapodi, M.M., Cicciu, M., Minervini, G.
+        conference: Minerva Pediatrics, 2023
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
 certifications:
       title: Certifications
       list:
@@ -227,28 +247,6 @@ oss:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
