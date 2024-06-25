@@ -146,6 +146,10 @@ publications:
     intro: |
       WoS and SCOPUS Publications
     papers:
+      - title: The role of ultrasound imaging of temporomandibular joint condyle-disc complex disorders
+        link: "https://doi.org/10.1080/08869634.2024.2347818"
+        authors: Karabulut, İ., Diraçoğlu, D., Çapan, N., Ünsal,G., et al.
+        conference: CRANIO, 2024
       - title: The Use of Intraoral Ultrasound in the Evaluation of the Benign Lesions in Pediatric Patients
         link: "https://doi.org/10.23736/S2724-5276.23.07163-X"
         authors: Ünsal, G., Orhan, A.I., Orhan, K., et al.
@@ -162,3 +166,27 @@ publications:
         link: "https://doi.org/10.1016/j.sdentj.2023.05.023"
         authors: Ünsal G, Cicciu M, Saleh RAA, et al.
         conference: The Saudi Dental Journal, 2023
+      - title: Deep convolutional neural network algorithm for the automatic segmentation of oral potentially malignant disorders and oral cancers
+        link: "https://doi.org/10.1177/09544119231176116"
+        authors: Ünsal, G., Chaurasia, A., Akkaya, N. et al.
+        conference: Part H Journal of engineering in medicine, 2023
+      - title: Federated vs Local vs Central Deep Learning of Tooth Segmentation on Panoramic Radiographs
+        link: "https://doi.org/10.1016/j.jdent.2023.104556"
+        authors: ITU/WHO TG-Dental Group
+        conference: Journal of dentistry, 2023
+      - title: Automatic Segmentation of Teeth, Crown-Bridge Restorations, Dental Implants, Restorative Fillings, Dental Caries, Residual Roots, and Root Canal Fillings on Orthopantomographs
+        link: "https://doi.org/10.3390/diagnostics13081487"
+        authors: •	Gardiyanoğlu, E., Ünsal, G., Akkaya, N. et al.
+        conference: Diagnostics, 2023
+      - title: Investigation of the Wetting Properties of Thalassemia Patients’ Blood Samples on Grade 5 Titanium Implant Surfaces
+        link: "http://dx.doi.org/10.3390/biomimetics8010025"
+        authors: Temelci, A., Yılmaz, H. G., Ünsal, G. et al.
+        conference: Biomimetics, 2023
+      - title: Comparison of the Paranasal Sinus Features of Paediatric Patients with and Without Cleft Palate
+        link: "https://doi.org/10.1177/10556656221149148"
+        authors: Tunç H, Ünsal G. 
+        conference: The Cleft Palate Craniofacial Journal, 2023
+      - title: Association of accessory sphenoidal septum with protrusions of sphenoid sinus
+        link: "https://doi.org/10.1007/s00405-022-07780-2"
+        authors: Goksel, S., Unsal, G., Cakir Karabas, H. et al.
+        conference: European archives of oto-rhino-laryngology, 2023
