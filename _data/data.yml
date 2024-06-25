@@ -97,26 +97,17 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Tenure Track
+        time: 2024 - Present
+        company: University of Western Ontario / Ontario, Canada
+        details: |
+          AI in Dentistry Researcher
+          Oral and Maxillofacial Radiology Lecturer      
       - role: Researcher
         time: 2021 - Present
         company: ITU/WHO Focus Group on AI for Health
         details: |
           Researcher in Topic Group - Dental
-      - role: Tenure Track
-        time: July 2024
-        company: University of Western Ontario / Ontario, Canada
-        details: |
-          AI in Dentistry Researcher
-          Oral and Maxillofacial Radiology Lecturer
-      - role: Tenure Track
-        time: 2019 - 2024
-        company: Near East University / Nicosia, Cyprus
-        details: |
-          Associate Professor (Aug 2023 - Jan 2024)
-          Assistant Professor (Feb 2021 - Aug 2023)
-          Oral and Maxillofacial Radiology Lecturer (Sep 2019 - Jan 2024)
-          Board Member in "Center of Excellence" (Dec 2020 - Dec 2022)
-          Researcher in "AI in Medicine Research Group" (Sep 2019 - Dec 2022)
       - role: Committee Member
         time: 2021 - Present
         company: Oral Diagnosis and Maxillo Facial Radiology Association (ODMFR)
@@ -129,7 +120,14 @@ experiences:
           Central Board (2022-2024)
           Member of Specialization Committee
           Member of Research and Scientific Committee
-          Member of Taskforce Membership Communications
+          Member of Taskforce Membership Communications     
+      - role: Tenure Track
+        time: 2019 - 2024
+        company: Near East University / Nicosia, Cyprus
+        details: |
+          Oral and Maxillofacial Radiology Lecturer
+          Board Member in Center of Excellence
+          Researcher in "AI in Medicine Research Group"
       - role: Guest Lecturer
         time: 2021 - 2022
         company: Beykent University
