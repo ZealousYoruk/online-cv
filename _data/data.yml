@@ -144,6 +144,10 @@ publications:
     intro: |
       WoS and SCOPUS Publications
     papers:
+      - title: Prediction of Bone Invasion of Oral Squamous Cell Carcinoma Using a Magnetic Resonance Imaging-based Machine Learning Model
+        link: in Press
+        authors: Aslan Ozturk, EM., Unsal, G., Erisir, F., Orhan, K.
+        conference: European Archives of Oto-Rhino-Laryngology, 2024
       - title: The role of ultrasound imaging of temporomandibular joint condyle-disc complex disorders
         link: "https://doi.org/10.1080/08869634.2024.2347818"
         authors: Karabulut, İ., Diraçoğlu, D., Çapan, N., Ünsal,G., et al.
