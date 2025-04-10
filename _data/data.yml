@@ -144,8 +144,20 @@ publications:
     intro: |
       WoS and SCOPUS Publications
     papers:
+      - title: Deep Learning-Driven Segmentation of Dental Implants and Automated Detection of Peri-Implantitis in Orthopantomographs: Development of a Novel Diagnostic Tool
+        link: "https://doi.org/10.1016/j.jebdp.2024.102058"
+        authors: Kibcak, E., Buhara, O., Temelci, A. Akkaya, N., Ünsal, G., Minervini, G.
+        conference: Journal of Evidence-Based Dental Practice, 2025
+      - title: Assessment of mastoid emissary foramen morphology: a multidetector computed tomography study
+        link: "https://link.springer.com/article/10.1007/s11282-025-00808-3"
+        authors: Ertürk, A.F., Ünsal, G., Göksel, S., Çelebi, E., Tunç, H., Minervini, G.
+        conference: Oral Radiology, 2025
+      - title: Comparative Analysis of Local Application of T-PRF and L-PRF in Bone Defect Healing: A Micro-Ct and Histopathological Study in Rabbit Models
+        link: "https://doi.org/10.1002/jemt.24841"
+        authors: Yasaroglu, N., Unsal, G., Kocaelli, H.A., Orhan, K., Sağ, F.B.
+        conference: Microscopy Research and Technique, 2025
       - title: Prediction of Bone Invasion of Oral Squamous Cell Carcinoma Using a Magnetic Resonance Imaging-based Machine Learning Model
-        link: in Press
+        link: "https://link.springer.com/article/10.1007/s00405-024-08862-z"
         authors: Aslan Ozturk, EM., Unsal, G., Erisir, F., Orhan, K.
         conference: European Archives of Oto-Rhino-Laryngology, 2024
       - title: The role of ultrasound imaging of temporomandibular joint condyle-disc complex disorders
