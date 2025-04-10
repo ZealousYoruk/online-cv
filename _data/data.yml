@@ -144,11 +144,11 @@ publications:
     intro: |
       WoS and SCOPUS Publications
     papers:
-      - title: Deep Learning-Driven Segmentation of Dental Implants and Automated Detection of Peri-Implantitis in Orthopantomographs: Development of a Novel Diagnostic Tool
+    - title: Deep Learning-Driven Segmentation of Dental Implants and Automated Detection of Peri-Implantitis in Orthopantomographs: Development of a Novel Diagnostic Tool
         link: "https://doi.org/10.1016/j.jebdp.2024.102058"
         authors: Kibcak, E., Buhara, O., Temelci, A. Akkaya, N., Ünsal, G., Minervini, G.
         conference: Journal of Evidence-Based Dental Practice, 2025
-      - title: Assessment of mastoid emissary foramen morphology: a multidetector computed tomography study
+     - title: Assessment of mastoid emissary foramen morphology: a multidetector computed tomography study
         link: "https://link.springer.com/article/10.1007/s11282-025-00808-3"
         authors: Ertürk, A.F., Ünsal, G., Göksel, S., Çelebi, E., Tunç, H., Minervini, G.
         conference: Oral Radiology, 2025
